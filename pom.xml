@@ -9,10 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.mytests.spring</groupId>
-    <artifactId>spring-cloud-configs</artifactId>
+    <artifactId>spring-cloud-server-test0</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-cloud-configs</name>
-    <description>spring-cloud-configs</description>
+    <description>spring-cloud-server: configs test</description>
     <properties>
         <java.version>11</java.version>
         <spring-cloud.version>2021.0.0-RC1</spring-cloud.version>
